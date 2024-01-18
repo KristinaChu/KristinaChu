@@ -15,3 +15,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp 
  <img src="https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/tableau.svg" title="assets" alt="assets" width="40" height="40"/>&nbsp 
 </div>
+ 
+
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
