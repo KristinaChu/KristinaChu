@@ -5,8 +5,8 @@
 
 ### 👩🏻‍💻 Обо мне:
   
-Опытный врач 🩺 со страстью к анализу данных.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">     
-Сейчас прохожу обучение в области анализа данных и ищу возможности для применения знаний и опыта в этой области.    
+Я опытный врач 🩺 и начинающий аналитик данных.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">     
+Сейчас прохожу обучение в области анализа данных и ищу возможности для применения полученных знаний.    
 Готова к новым вызовам и вдохновляющим проектам! 💼🌟
 
 
@@ -20,8 +20,9 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp 
  <img src="https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/tableau.svg" title="assets" alt="assets" width="40" height="40"/>&nbsp 
 </div>
- 
+
+----------   
 <p align="left">
   <a href="https://github.com/KristinaChu/Portfolio"><img alt="All Repositories" title="" src="https://custom-icon-badges.demolab.com/badge/-Перейти%20в%20портфолио-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
+
 </p>
