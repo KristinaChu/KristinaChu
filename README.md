@@ -10,7 +10,7 @@
 Готова к новым вызовам и вдохновляющим проектам! 💼🌟
 
 
-Связаться со мной: [![ Telegram Badge](https://img.shields.io/badge/-Krisina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kristach1985) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Kristinachurzina69@gmail.com)
+Связаться со мной: [![ Telegram Badge](https://img.shields.io/badge/-Kristina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kristach1985) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Kristinachurzina69@gmail.com)
 
 ### 🛠️ Навыки:
 <div>
